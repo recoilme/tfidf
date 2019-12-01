@@ -6,8 +6,8 @@ import (
 	"log"
 	"math"
 
-	"github.com/wilcosheh/tfidf/seg"
-	"github.com/wilcosheh/tfidf/util"
+	"github.com/recoilme/tfidf/seg"
+	"github.com/recoilme/tfidf/util"
 )
 
 // TFIDF tfidf model
